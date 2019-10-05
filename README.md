@@ -5,7 +5,7 @@ An Open-Source Giveaway Bot for Discord
 ./config.json:
 ```json
 {
-  "prefix":"PREFIX HERE",
+  "prefix":"$",
   "token":"TOKEN HERE",
   "owners":["OWNER USER-ID HERE"]
 }
