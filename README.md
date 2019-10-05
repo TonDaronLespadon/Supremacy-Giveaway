@@ -10,6 +10,9 @@ An Open-Source Giveaway Bot for Discord
   "owners":["OWNER USER-ID HERE"]
 }
 ```
+### And do in your TERMINAL
+
+npm install
 
 ### Command Usage Explanation
 Basically, everything in `[]` is optional. Everything in `<>` is required.
